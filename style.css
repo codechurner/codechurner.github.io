@@ -99,8 +99,7 @@ body{
     }
 }
 
-@media only screen
-and (max-device-width:500px){
+@media(max-width:500px){
     .menu-list{
         display: none;
     }
